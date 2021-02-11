@@ -1,6 +1,5 @@
 package br.com.guilherme.forum.controller.dto;
 
-import br.com.guilherme.forum.modelo.Resposta;
 import br.com.guilherme.forum.modelo.StatusTopico;
 import br.com.guilherme.forum.modelo.Topico;
 
